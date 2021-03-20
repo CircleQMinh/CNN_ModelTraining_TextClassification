@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CNN_ModelTraining_TextClassification", "CNN_ModelTraining_TextClassification\CNN_ModelTraining_TextClassification.pyproj", "{088E57ED-6AED-4104-B6D5-73B94C3182D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088E57ED-6AED-4104-B6D5-73B94C3182D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088E57ED-6AED-4104-B6D5-73B94C3182D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97C94B2-4647-4ED4-A314-70CB3C4C0797}
+	EndGlobalSection
+EndGlobal
